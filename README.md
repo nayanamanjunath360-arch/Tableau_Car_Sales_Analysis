@@ -1,5 +1,3 @@
-# Tableau_Car_Sales_Analysis
-An interactive Tableau dashboard designed to analyze car sales performance across cities, companies, and time periods. The dashboard provides an overview of key sales metrics to support strategic decision-making and performance tracking.  
 # Car Sales Data Dashboard | Tableau
 
 ## 📊 Overview
@@ -21,7 +19,7 @@ An interactive Tableau dashboard designed to analyze and visualize car sales dat
 - `Dashboard_Screenshot.png` – Preview of the Tableau Dashboard  
 
 ## 🌐 Dashboard Preview
-![Car Sales Dashboard Screenshot](car_dashboard screenshot.png)
+![Car Sales Dashboard Screenshot](Dashboard_Screenshot.png)
 
 ## 📈 Outcome
 Enhanced understanding of sales performance across multiple dimensions, enabling strategic insights into customer and market behavior.  
