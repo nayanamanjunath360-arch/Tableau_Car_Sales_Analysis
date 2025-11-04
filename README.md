@@ -21,7 +21,7 @@ An interactive Tableau dashboard designed to analyze and visualize car sales dat
 - `Dashboard_Screenshot.png` – Preview of the Tableau Dashboard  
 
 ## 🌐 Dashboard Preview
-![Car Sales Dashboard Screenshot](Dashboard_Screenshot.png)
+![Car Sales Dashboard Screenshot](car_dashboard screenshot.png)
 
 ## 📈 Outcome
 Enhanced understanding of sales performance across multiple dimensions, enabling strategic insights into customer and market behavior.  
